@@ -1,0 +1,81 @@
+.profilfoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+
+.isim_intro {
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 40px;
+    
+}
+.intro{
+    font-size: 20px;
+}
+
+.baslik {
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+.td{
+    font-size: 20px;
+}
+
+body {
+    background-color: #011627;
+    color: rgb(255, 255, 255);
+    padding-left: 5%;
+    border: 60px solid #FD841F;
+    border-top: 0px;
+    margin: 0px;
+}
+
+hr {
+    border-style: dotted none none none;
+    height: 0px;
+    width: 6%;
+    border-color: #9FC9F3;
+    
+
+    border-width: 5px;
+}
+
+h1 {
+    color: #FD841F;
+    
+}
+
+
+
+.texts {
+    text-decoration: solid;
+}
+
+h3 {
+    color: #FD841F;
+}
+
+h4 {
+    color: #FD841F;
+}
+.logo {
+    width: 50px;
+    background-color: rgb(34, 31, 31);
+    text-align: right;
+}
+
+
+
+a {
+    color: aquamarine;
+
+}
+
+
+
+
+
